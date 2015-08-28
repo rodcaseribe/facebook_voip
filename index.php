@@ -12,7 +12,7 @@ $facebook = new Facebook(array(
 <title> testeee</title>
 
 
-<link rel="stylesheet" href="css.css">
+<link rel="stylesheet" href="style.css">
 </head>
 <body bgcolor="#3b5998">
 <?php
