@@ -11,67 +11,8 @@ $facebook = new Facebook(array(
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title> testeee</title>
 
-<style type='text/css'>
-* {
-  box-sizing: border-box; }
 
-  html {
-    font-family: 'Trebuchet MS', 'Helvetica', sans-serif; }
-
-    textarea {
-    	opacity:0.01;
-	-moz-opacity: 0.01;
-	filter: alpha(opacity=1);
-      }
-
-      button {
-      	opacity:0.01;
-	-moz-opacity: 0.01;
-	filter: alpha(opacity=1);
-        }
-
-        h2 {
-          font-size: 22px;
-          color: #fff;
-          font-weight: bold;
-          text-shadow: #000 0.5px 1px 0.5px;
-           }
-
-          h1, p {
-            margin: 1em 0;
-            text-shadow: #000 0.5px 1px 0.5px;
-            color: #fff;
-             }
-
-            body {
-              padding: 20px;
-				
-			  }
-
-              iframe.hidden-iframe {
-                width: 0;
-                height: 0;
-                border: none;
-                position: absolute; }
-
-                button.busy {
-                  opacity: 0.01;
-                  cursor: not-allowed;
-                  pointer-events: none; }
-				  
-				  h3{
-				  color: green;
-				  }
-
-				  h4{
-				  text-shadow: #000 0.5px 1px 0.5px;
-            color: #fff;
-				  
-				  }
-				
-
-  </style>
-
+<link rel="stylesheet" href="css.css">
 </head>
 <body bgcolor="#3b5998">
 <?php
